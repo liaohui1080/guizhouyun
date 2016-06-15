@@ -1,0 +1,24 @@
+{
+  "name": "guizhouyun",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "liaohui1080 <liaohui1080@tianliaohui.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "html5shiv": "^3.7.3"
+  }
+}
